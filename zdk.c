@@ -2,6 +2,7 @@
 int main()
 {
 	printf("hahaha"); 
-	printf("hello world");
+	printf("hello world\n");
+	printf("%d",sizeof(int)); 
 	return 0;
 } 
